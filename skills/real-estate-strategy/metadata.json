@@ -1,0 +1,11 @@
+{
+  "name": "Real Estate Strategy",
+  "slug": "real-estate-strategy",
+  "version": "0.1.0-alpha",
+  "category": "strategy",
+  "status": "active",
+  "description": "地产项目前期产策定位 Skill，覆盖土地研判、竞品分析、产品定位、投前风险排查和产策报告生成。",
+  "language": "zh-CN",
+  "author": "老罗",
+  "updated_at": "2026-06-04"
+}

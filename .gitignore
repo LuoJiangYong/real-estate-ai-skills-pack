@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local outputs
+outputs/
+**/outputs/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Generated report examples kept outside source unless explicitly added
+*.docx
+*.pptx
+*.pdf
