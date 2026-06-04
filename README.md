@@ -180,10 +180,15 @@ skills/real-estate-community-top-design/
 Real Estate AI Skills Pack/
   README.md
   CHANGELOG.md
+  CONTRIBUTING.md
+  LICENSE.md
+  LICENSE-CODE
+  LICENSE-CONTENT.md
   .gitignore
   docs/
     skill-template.md
     publishing-guide.md
+    roadmap.md
 skills/
   real-estate-strategy/
     SKILL.md
@@ -202,47 +207,6 @@ skills/
 
 版本号放入 `metadata.json` 和 `CHANGELOG.md`，不写在文件夹名称中。这样后续更新时不需要反复新增 `-1.1`、`-1.2`、`-2.0` 目录，能避免知识库和引用路径碎片化。
 
-## 后续路线图
-
-### v0.1
-
-- 整理并发布产策定位 Skill
-- 整理并发布故事线 Skill
-- 整理并发布社群运营顶层设计 Skill
-- 补齐项目 README、基础说明和目录规范
-
-### v0.2
-
-- 新增房地产客户研究 Skill
-- 建立统一 Skill 元数据规范
-- 增加示例输出文件
-- 优化脚本输出路径与跨设备兼容性
-
-### v0.3
-
-- 新增会员与私域运营 Skill
-- 新增老带新 / 全民推荐机制 Skill
-- 建立跨 Skill 案例索引
-- 增加更多中国房地产项目案例
-
-### 长期方向
-
-- 建立覆盖房地产全链路的 AI Skill Pack
-- 形成客研、产策、品牌、营销、社群、会员、商业运营的组合式工作流
-- 持续补充中国房地产市场案例、方法论、模板和自动化脚本
-
-## 更新与扩展建议
-
-为了让每个 Skill 后续都方便维护，建议遵循以下原则：
-
-1. 一个 Skill 只解决一个明确业务问题
-2. 方法论、案例库、脚本分开存放
-3. 不把版本号写死在目录名中
-4. 每个 Skill 都维护独立的 `metadata.json`
-5. 新增案例时优先补充到知识库，不直接堆进 `SKILL.md`
-6. 平台专属工具调用要写成可替换表达
-7. 每次重要更新写入 `CHANGELOG.md`
-
 ## 适用对象
 
 - 房地产开发企业
@@ -251,6 +215,15 @@ skills/
 - 社群、会员、私域、客户运营团队
 - 房地产咨询顾问
 - 使用 AI 提升地产专业工作流的个人和组织
+
+## License
+
+本项目采用双许可证：
+
+- 代码与脚本：MIT License，详见 `LICENSE-CODE`
+- 文档、Skill 定义、方法论、参考资料、知识库和案例内容：CC BY-NC 4.0，详见 `LICENSE-CONTENT.md`
+
+商业使用文档、方法论、知识库或案例内容前，请先取得作者授权。
 
 ## 免责声明
 

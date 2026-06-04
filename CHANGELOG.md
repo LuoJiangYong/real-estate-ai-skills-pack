@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.1.1-alpha - 2026-06-04
+
+- 精简 README，移除主文档中的路线图和扩展建议。
+- 新增 `CONTRIBUTING.md`，明确新增和更新 Skill 的维护规则。
+- 新增 `docs/roadmap.md`，将长期规划移入独立文档。
+- 新增双许可证说明：
+  - 代码与脚本使用 MIT License
+  - 文档、Skill 定义、方法论、参考资料、知识库和案例内容使用 CC BY-NC 4.0
+
 ## v0.1.0-alpha - 2026-06-04
 
 首发 alpha 版本。
