@@ -3,6 +3,7 @@
 ## Unreleased
 
 - 在 `docs/roadmap.md` 中新增未来独立开发的“房地产项目视觉渲染与分析图 Skill”愿景。
+- 在 `docs/roadmap.md` 中新增 Plugin 方向：房地产品牌舆情监测 Plugin、房地产市场雷达 Plugin。
 - 将 roadmap 当前版本标记更新为 `v0.1.1-alpha`。
 
 ## v0.1.1-alpha - 2026-06-04
