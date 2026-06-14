@@ -235,6 +235,11 @@ skills/
 
 目标：做最全面的中国房地产市场 AI 工具包。
 
+## 相关链接
+
+- 个人作品集：https://luojiangyong.com/ch/
+- CoskyAI：https://coskyai.com/
+
 ## 联系作者
 
 - 视频号：LUO江勇
